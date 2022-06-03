@@ -24,5 +24,5 @@ I am a front-end developer in learning <img src="https://media.giphy.com/media/W
 # :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanjama&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
+#
 
