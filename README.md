@@ -6,29 +6,15 @@
 # :woman_technologist: # About Me : 
 I am a front-end developer in learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working on learning front-end and practicing my skill.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring my new world of coding.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-
+- :zap: In my free time, I like to learn more about programing.
 
 
 
 
 
-<!--
-**vanjama/vanjama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
