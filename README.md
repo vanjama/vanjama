@@ -2,9 +2,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/k0y1iydyiKWCQ/giphy.gif" width="600" height="300"/>
 </div>
-# :woman_technologist: 
 
-# About Me :
+# About Me : #:woman_technologist: 
 I am a front-end developer in learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
