@@ -21,6 +21,8 @@ I am a front-end developer in learning <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+# :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-vanjama
 
 
 
