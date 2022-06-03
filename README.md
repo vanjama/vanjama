@@ -12,6 +12,8 @@ I am a front-end developer in learning <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I like to swim and travel.
 
+- :mailbox:How to reach me: maroufvanja@gmail.com
+
 
 
 
