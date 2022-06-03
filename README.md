@@ -10,7 +10,7 @@ I am a front-end developer in learning <img src="https://media.giphy.com/media/W
 
 - :seedling: Exploring my new world of coding.
 
-- :zap: In my free time, I like to learn more about programing.
+- :zap: In my free time, I like to swim and travel.
 
 
 
